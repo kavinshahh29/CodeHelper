@@ -5,9 +5,46 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Sign Up</title>
+
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.10.0" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet">
+
+    <style>
+    @keyframes typewriter {
+        from { width: 0; }
+        to { width: 100%; }
+    }
+    @keyframes blink {
+        50% { border-color: transparent; }
+    }
+    .typewriter-text {
+        display: inline-block;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 3px solid;
+        width: 100%; 
+        max-width: 30ch; 
+        animation: typewriter 3s steps(30) 0.5s 1 normal both, blink 0.75s step-end infinite;
+        text-align: center;
+        font-size: 4rem; 
+        font-family: "SUSE", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 20;
+        font-style: normal;
+    }
+</style>
 </head>
-<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+<body class="bg-gray-100 flex items-center justify-center min-h-screen" style="background-color:darkslategrey">
+    
+  
+    <div class="absolute top-16 w-full text-center">
+        <h1 class="typewriter-text text-white">
+            Welcome to CodeHelper
+        </h1>
+    </div>
     <form id="form1" runat="server" class="bg-white p-8 rounded-lg shadow-md w-full max-w-sm">
         <div class="mb-4">
             <asp:Label ID="lblname" runat="server" CssClass="block text-gray-700 text-sm font-bold mb-2">Username</asp:Label>

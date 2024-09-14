@@ -26,7 +26,7 @@
         }
     </style>
 </head>
-<body class="bg-gray-100">
+<body class="bg-gray-100" style="background-color:darkslategrey">
     <form id="form1" runat="server">
     
         <nav class="navbar p-4 bg-gray-900">

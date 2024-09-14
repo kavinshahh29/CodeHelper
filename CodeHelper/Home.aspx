@@ -13,20 +13,17 @@
         .navbar a {
             color: #e2e8f0; 
         }
-        .navbar img {
-            height: 40px; /* Adjust the size of the logo */
-            width: auto;
-        }
+       
     </style>
 </head>
-<body>
+<body style="background-color:darkslategrey">
     <form id="form1" runat="server">
       
         <nav class="navbar p-4">
             <div class="container mx-auto flex items-center justify-between">
                 <div class="flex items-center space-x-4">
                    
-                    <img src="./img/codehelper_logo.png" alt="Logo" />
+      
 
                     
                     <a href="/CreateBlog.aspx" class="text-white font-bold hover:text-gray-300">Create Blog</a>

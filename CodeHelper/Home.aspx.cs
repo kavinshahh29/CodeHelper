@@ -15,11 +15,10 @@ namespace Codehelper
       
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["Email"] != null)
+            if (Session["Email"] == null)
             {
-                Response.Write("Thank You");
-
-                Response.Write(Session["Email"].ToString());
+                Response.Redirect("~/Login.aspx");
+               
             }
 
           
