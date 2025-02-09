@@ -3,84 +3,88 @@
   "WorkspaceRootPath": "D:\\Github\\CodeHelper\\CodeHelper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|d:\\github\\codehelper\\codehelper\\createblog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:createblog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:EditBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:EditBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:EditBlog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:ViewBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:ViewBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|d:\\github\\codehelper\\codehelper\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:CreateBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\viewblog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:viewblog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:CreateBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:ViewBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:CreateBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:EditBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:EditBlog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|D:\\Github\\CodeHelper\\CodeHelper\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1541F27A-9892-440A-992C-F2CFC301B485}|Codehelper.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\CodeHelper\\CodeHelper\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,151 +94,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditBlog.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.cs",
-              "RelativeDocumentMoniker": "EditBlog.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.cs",
-              "RelativeToolTip": "EditBlog.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:12:23.756Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditBlog.aspx",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx",
-              "RelativeDocumentMoniker": "EditBlog.aspx",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx",
-              "RelativeToolTip": "EditBlog.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-07T18:12:20.817Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewBlog.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx.cs",
-              "RelativeDocumentMoniker": "ViewBlog.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx.cs",
-              "RelativeToolTip": "ViewBlog.aspx.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAiwIkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T03:32:28.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditBlog.aspx.designer.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.designer.cs",
-              "RelativeDocumentMoniker": "EditBlog.aspx.designer.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.designer.cs*",
-              "RelativeToolTip": "EditBlog.aspx.designer.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:15:37.072Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "Login.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.cs",
-              "RelativeToolTip": "Login.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:24:33.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ViewBlog.aspx",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx",
-              "RelativeDocumentMoniker": "ViewBlog.aspx",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx",
-              "RelativeToolTip": "ViewBlog.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-08T03:30:01.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx",
-              "RelativeDocumentMoniker": "Login.aspx",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx",
-              "RelativeToolTip": "Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-07T11:19:57.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateBlog.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx.cs",
-              "RelativeDocumentMoniker": "CreateBlog.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx.cs",
-              "RelativeToolTip": "CreateBlog.aspx.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAACMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:12:59.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Signup.aspx",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx",
-              "RelativeDocumentMoniker": "Signup.aspx",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx",
-              "RelativeToolTip": "Signup.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-14T04:46:21.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Home.aspx",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx",
-              "RelativeDocumentMoniker": "Home.aspx",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx",
-              "RelativeToolTip": "Home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-07T18:12:01.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Signup.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx.cs",
-              "RelativeDocumentMoniker": "Signup.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx.cs",
-              "RelativeToolTip": "Signup.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T04:48:07.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "CreateBlog.aspx",
               "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx",
               "RelativeDocumentMoniker": "CreateBlog.aspx",
@@ -247,31 +123,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Home.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.cs",
-              "RelativeDocumentMoniker": "Home.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.cs",
-              "RelativeToolTip": "Home.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:12:05.97Z"
+              "DocumentIndex": 3,
+              "Title": "EditBlog.aspx",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx",
+              "RelativeDocumentMoniker": "EditBlog.aspx",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx",
+              "RelativeToolTip": "EditBlog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T18:12:20.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Logout.aspx.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx.cs",
-              "RelativeDocumentMoniker": "Logout.aspx.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx.cs",
-              "RelativeToolTip": "Logout.aspx.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:21:32.813Z"
+              "DocumentIndex": 5,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T18:12:01.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T11:19:57.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-07T11:22:53.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Logout.aspx",
               "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx",
               "RelativeDocumentMoniker": "Logout.aspx",
@@ -283,19 +184,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Home.aspx.designer.cs",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.designer.cs",
-              "RelativeDocumentMoniker": "Home.aspx.designer.cs",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.designer.cs",
-              "RelativeToolTip": "Home.aspx.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T03:30:58.158Z"
+              "DocumentIndex": 4,
+              "Title": "ViewBlog.aspx",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx",
+              "RelativeDocumentMoniker": "ViewBlog.aspx",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx",
+              "RelativeToolTip": "ViewBlog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-08T03:30:01.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx",
+              "RelativeDocumentMoniker": "Signup.aspx",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx",
+              "RelativeToolTip": "Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-14T04:46:21.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:24:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:12:05.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewBlog.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx.cs",
+              "RelativeDocumentMoniker": "ViewBlog.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\ViewBlog.aspx.cs",
+              "RelativeToolTip": "ViewBlog.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:32:28.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LICENSE",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-09T10:36:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "Signup.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Signup.aspx.cs",
+              "RelativeToolTip": "Signup.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:48:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Login.aspx.designer.cs",
               "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Login.aspx.designer.cs",
               "RelativeDocumentMoniker": "Login.aspx.designer.cs",
@@ -307,7 +280,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Logout.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Logout.aspx.cs",
+              "RelativeToolTip": "Logout.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:21:32.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBlog.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx.cs",
+              "RelativeDocumentMoniker": "CreateBlog.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\CreateBlog.aspx.cs",
+              "RelativeToolTip": "CreateBlog.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:12:59.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
@@ -319,27 +316,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditBlog.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.designer.cs",
+              "RelativeDocumentMoniker": "EditBlog.aspx.designer.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.designer.cs",
+              "RelativeToolTip": "EditBlog.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:15:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditBlog.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.cs",
+              "RelativeDocumentMoniker": "EditBlog.aspx.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\EditBlog.aspx.cs",
+              "RelativeToolTip": "EditBlog.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:12:23.756Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "favicon.ico",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\favicon.ico",
-              "RelativeDocumentMoniker": "favicon.ico",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\favicon.ico",
-              "RelativeToolTip": "favicon.ico",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2024-09-07T18:15:36.14Z"
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Home.aspx.designer.cs",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Home.aspx.designer.cs",
+              "RelativeToolTip": "Home.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:30:58.158Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-07T11:22:53.563Z",
-              "EditorCaption": ""
+              "Title": "favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Github\\CodeHelper\\CodeHelper\\favicon.ico",
+              "RelativeDocumentMoniker": "favicon.ico",
+              "ToolTip": "D:\\Github\\CodeHelper\\CodeHelper\\favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-09-07T18:15:36.14Z"
             }
           ]
         }

@@ -67,10 +67,10 @@ namespace Codehelper
                                       
                                         <div>
                                             <div class='username text-lg font-bold'>{username}</div>
-                                            <div class='date text-gray-500'>{date.ToShortDateString()}</div>
+                                            <div class='date text-white-500'>{date.ToShortDateString()}</div>
                                         </div>
                                     </div>
-                                    <div class='content text-gray-700'>
+                                    <div class='content text-white-700'>
                                         <strong>Title:-{title}</strong><br />
                                         <p>Description:-{description}</p>
                                     </div>
